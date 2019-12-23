@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class QuickFindTestClass {
+    public static void main(String args[]){
+
+    }
 }
